@@ -10,7 +10,7 @@ where the character can:
 * Lose all his lives to get a game over
 * Die by falling
 * Respawn at a checkpoint
-* More to come
+* More to come, including more levels and a finish line to the first level
 
 # Setup
 ## Prerequisites
